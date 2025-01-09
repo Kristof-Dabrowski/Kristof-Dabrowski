@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on becoming a .net dev and building a small website.
+- 🌱 I’m currently learning the basics: html, css, java and then on to C#.
+- 👯 I’m looking to collaborate on nothing right now.
+- 🤔 I’m looking for help with C#, visual studio.
+- 💬 Ask me about anything.
+- 📫 You can reach me on kristof.dabrowski@telenet.be
+- ⚡ Fun fact: I am a Astrophotographer and D&D player. 😄
 <!--
 **Kristof-Dabrowski/Kristof-Dabrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
