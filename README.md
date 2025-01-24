@@ -9,4 +9,4 @@
 <!--
 **Kristof-Dabrowski/Kristof-Dabrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a href="https://app.daily.dev/kristofdabrowski"><img src="https://api.daily.dev/devcards/v2/jroJWTYgIU9yVafEsqkHH.png?type=default&r=h3v" width="356" alt="Kristof Dabrowski's Dev Card"/></a>
+<a href="https://app.daily.dev/kristofdabrowski"><img src="./devcard.png" width="356" alt="Kristof Dabrowski's Dev Card"/></a>
