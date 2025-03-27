@@ -1,8 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on becoming a php-dev.
-- 🌱 I’m currently learning the basics: html, css, JavaScript en onto php.
+- 🔭 I’m currently working on becoming a C# .net developer.
+- 🌱 I’m currently learning the basics: SQL, Git, html, css, JavaScript en onto C#.
 - 👯 I’m looking to collaborate on nothing right now.
-- 🤔 I’m looking for help with JavaScript, programminglocig, php.
 - 💬 Ask me about anything.
 - 📫 You can reach me on dabrowski.kristof@proton.me
 - ⚡ Fun fact: I am a Astrophotographer and D&D player. 😄
